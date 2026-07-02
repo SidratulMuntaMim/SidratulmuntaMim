@@ -63,3 +63,5 @@ Open to internships and entry-level data analyst roles — feel free to reach ou
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SidratulMuntaMim&color=blue&style=flat" alt="profile views"/>
 </p>
+
+| [Marketing Campaign Dashboard](https://github.com/SidratulMuntaMim/excel-marketing-campaign-dashboard) | Excel dashboard analyzing $339K ad spend across 5 channels — ROAS, trends, KPI cards | Excel |
